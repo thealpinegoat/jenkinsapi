@@ -1,3 +1,3 @@
 """
-__init__,py for commandline module
+Module __init__ for command_line.
 """
